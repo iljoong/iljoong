@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iljoong
-- 👀 I’m interested in Cloud related technologies; Cloud-native app development, Infrastructure as Code, DevOps, IoT, Edge computing, AI/DL, ...
+- 👀 I’m interested in Cloud related technologies; Cloud-native app development, Infrastructure as Code, DevOps, IoT, Edge computing, AI/DL, Metaverse, GenAI/OpenAI ...
 - 📫 How to reach me via iljoong@outlook.com
 
 <!---
